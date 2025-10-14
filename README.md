@@ -7,7 +7,7 @@ Programmer, Software Developer, Student @ University of Manitoba
 
 - **Java Projects**
   - [Battleship Game (In Progress)](https://github.com/kankuronma/Battleship-Game)  
-    *Console-based Battleship++ project (COMP 2450). Implements movable ships, effects, hazards, and design-by-contract validation.*
+    *Designed an object-oriented domain model and REPL-based game system with the traditional battleship board game.*
 
 
 
