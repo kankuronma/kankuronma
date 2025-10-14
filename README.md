@@ -1,7 +1,14 @@
-<h1>Hi, I'm Lucy!
+# Hi, I'm Lucy!
+Programmer, Software Developer, Student @ University of Manitoba
 
-<h2>👨‍💻 Software Development Projects:</h2>
-  - <b>[Battleship Game (In progress)](https://github.com/kankuronma/Battleship-Game)
+---
+
+## 👩‍💻 Software Development Projects:
+
+- **Java Projects**
+  - [Battleship Game (In Progress)](https://github.com/kankuronma/Battleship-Game)  
+    *Console-based Battleship++ project (COMP 2450). Implements movable ships, effects, hazards, and design-by-contract validation.*
+
 
 
 
