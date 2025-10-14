@@ -14,5 +14,7 @@ Programmer, Software Developer, Student @ University of Manitoba
 - **Java Projects**
   - [Train Management System](https://github.com/kankuronma/Train-Management-System)  
     *A console / desktop (or web, whatever yours is) system to manage trains, schedules, routes, bookings, and user roles. Implements data validation, modular architecture, and CRUD operations.*
+  - [Relaxing Fishing Game](https://github.com/kankuronma/Relaxing-Fishing-Game)  
+    *A calming fishing simulator with pixel art visuals, fish types, casting mechanics, and collectible progression.*
 
 
