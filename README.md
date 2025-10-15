@@ -18,5 +18,7 @@ Programmer, Software Developer, Student @ University of Manitoba
     *A custom ADT for a fishing game using both sorted linked lists and hash tables with seperate chaining.*
   - [Cave Explorer](https://github.com/kankuronma/Cave-Explorer)  
     *Maze-solver using custom stack ADT and backtracking to find treasure paths in a grid.*
+  - [Canoe Route Mapping System](https://github.com/kankuronma/Canoe-Route-Mapping-system)  
+    *Route-finding system modeling lakes and portages using recursion, custom data structures, and file I/O.*
 
 
