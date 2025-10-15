@@ -16,5 +16,7 @@ Programmer, Software Developer, Student @ University of Manitoba
     *A console / desktop (or web, whatever yours is) system to manage trains, schedules, routes, bookings, and user roles. Implements data validation, modular architecture, and CRUD operations.*
   - [Relaxing Fishing Game](https://github.com/kankuronma/Relaxing-Fishing-Game)  
     *A custom ADT for a fishing game using both sorted linked lists and hash tables with seperate chaining.*
+  - [Cave Explorer](https://github.com/kankuronma/Cave-Explorer)  
+    *Maze-solver using custom stack ADT and backtracking to find treasure paths in a grid.*
 
 
