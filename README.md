@@ -20,5 +20,7 @@ Programmer, Software Developer, Student @ University of Manitoba
     *Maze-solver using custom stack ADT and backtracking to find treasure paths in a grid.*
   - [Canoe Route Mapping System](https://github.com/kankuronma/Canoe-Route-Mapping-system)  
     *Route-finding system modeling lakes and portages using recursion, custom data structures, and file I/O.*
+  - [Adventure Quest System](https://github.com/kankuronma/Adventure-Quest)  
+    *Interactive object-oriented world with players, artifacts, quests, and companions. Demonstrates class         design, object relationships, and method interactions in Java.*
 
 
